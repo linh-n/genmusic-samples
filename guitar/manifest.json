@@ -1,16 +1,16 @@
 {
-  "name": "Emilyguitar (Karoryfer Samples)",
-  "author": "D. Smolken / Karoryfer Samples",
+  "name": "Shinyguitar Acoustic (Karoryfer Samples)",
+  "author": "Karoryfer Samples",
   "license": "CC0-1.0",
-  "source": "https://github.com/sfzinstruments/karoryfer.emilyguitar",
+  "source": "https://github.com/sfzinstruments/karoryfer.shinyguitar",
   "format": "mp3",
   "type": "chromatic",
-  "notes": ["Cs2","E2","Fs2","A2","C3","Ds3","Fs3","A3","C4","Ds4","Fs4","A4","C5","Ds5","Fs5","A5","C6","D6"],
+  "notes": ["Cs2","E2","Fs2","A2","C3","Ds3","Fs3","A3","C4","Ds4","Fs4","A4","C5","Ds5","Fs5","A5","C6"],
   "noteEncoding": "sharps-as-s",
   "velocities": [1,2,3,4],
   "filePattern": "{note}v{velocity}.mp3",
   "priority": {
-    "notes": ["Cs2","E2","Fs2","A2","C3","Ds3","Fs3","A3","C4","Ds4","Fs4","A4","C5","Ds5","Fs5","A5","C6","D6"],
+    "notes": ["Cs2","E2","Fs2","A2","C3","Ds3","Fs3","A3","C4","Ds4","Fs4","A4","C5","Ds5","Fs5","A5","C6"],
     "velocities": [2]
   }
 }
